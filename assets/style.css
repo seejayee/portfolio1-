@@ -211,6 +211,11 @@ nav a:hover {
     background-size: cover;
 }
 
+.project-2 {
+    background-image: url(/assets/images/mixTapeGenerator.png);
+    background-size: cover;
+}
+
 /* Tablet Size */
 @media screen and (max-width: 769px) {
     header nav a{
